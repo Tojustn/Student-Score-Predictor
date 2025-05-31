@@ -1,6 +1,7 @@
 # Student-Score-Predictor
 
-This is a basic machine learning project using Python and scikit-learn to predict student performance based on features like study time, sleep hours, and attendance.
+This is a basic machine learning project using Python and scikit-learn to predict student performance based on features like study time, sleep hours, and attendance. 
+Using a public kaggle dataset
 
 ## 🧠 Model Used
 
